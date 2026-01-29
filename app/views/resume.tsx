@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { HiDownload } from "react-icons/hi";
 import { FaGithubSquare } from "react-icons/fa";
